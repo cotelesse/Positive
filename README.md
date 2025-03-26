@@ -16,7 +16,7 @@
 
 <h5>Esse foi um projeto que fiz no curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h5>
 
-## 💻 Tecnologia
+## 💻 Tecnologias
 
 <h5>Nesse projeto foi utilizado as seguintes tecnologias:</h5>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO">
